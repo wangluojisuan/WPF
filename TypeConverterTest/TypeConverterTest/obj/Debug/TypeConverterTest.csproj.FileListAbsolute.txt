@@ -1,0 +1,15 @@
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest.csprojResolveAssemblyReference.cache
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\MainWindow.g.cs
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\App.g.cs
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest_MarkupCompile.cache
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest_MarkupCompile.lref
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\bin\Debug\TypeConverterTest.exe.config
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\bin\Debug\TypeConverterTest.exe
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\bin\Debug\TypeConverterTest.pdb
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\MainWindow.baml
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest.g.resources
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest.Properties.Resources.resources
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest.csproj.GenerateResource.Cache
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest.exe
+D:\MyCode\github\WPF\TypeConverterTest\TypeConverterTest\obj\Debug\TypeConverterTest.pdb
