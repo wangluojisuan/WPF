@@ -1,0 +1,16 @@
+﻿<Window x:Class="Binding_TypeConverter_Student.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Binding_TypeConverter_Student"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="325">
+    <Window.Resources>
+        <local:Student x:Key="stuResources" Id="123" PersonalMessage="Ti"/>
+    </Window.Resources>
+    <StackPanel>
+        <TextBox Name="textBox1" Text="{Binding Path=Id,Source={StaticResource ResourceKey=stuResources}}" Margin="5" BorderBrush="Black"/>
+        <Button Name="btn1" Content="ClickMe" Margin="5" Click="btn1_Click" BorderBrush="Black"/>
+    </StackPanel>
+</Window>
