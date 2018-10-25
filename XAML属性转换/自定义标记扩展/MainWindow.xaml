@@ -1,0 +1,15 @@
+﻿<Window x:Class="自定义标记扩展.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:自定义标记扩展"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="325">
+    <Window.Resources>
+        <local:MyClass x:Key="my" Item="{local:PointItem Lon=10,Lat=10}"/>
+    </Window.Resources>
+    <StackPanel>
+        <TextBox Name="textBox1" BorderBrush="Black" Margin="5"/>
+    </StackPanel>
+</Window>
