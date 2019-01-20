@@ -1,0 +1,10 @@
+﻿<Window x:Class="让物体动起来.CompositionTargetWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:让物体动起来"
+        mc:Ignorable="d"
+        Title="CompositionTargetWindow" Height="300" Width="300">
+    <Canvas Width="800" Height=" 600" Background="Silver" Name="Carrier" MouseLeftButtonDown="Carrier_MouseLeftButtonDown"/>
+</Window>
