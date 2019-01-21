@@ -13,6 +13,9 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -23,5 +26,6 @@
         <Button Grid.Row="0" Grid.Column="0" Name="btnStoryboardWindow" Click="btnStoryboardWindow_Click" Content="StoryboardWindow"/>
         <Button Grid.Row="0" Grid.Column="1" Name="btnCompositionTargetWindow" Click="btnCompositionTargetWindow_Click" Content="CompositionTargetWindow"/>
         <Button Grid.Row="0" Grid.Column="2" Name="btnDispatcherTimerWindow" Click="btnDispatcherTimerWindow_Click" Content="DispatcherTimerWindow"/>
+        <Button Grid.Row="0" Grid.Column="3" Name="btnBodyAnimationWindow" Click="btnBodyAnimationWindow_Click" Content="2D循环人物动画"/>
     </Grid>
 </Window>

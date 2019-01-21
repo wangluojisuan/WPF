@@ -43,5 +43,11 @@ namespace 让物体动起来
             DispatcherTimerWindow window = new DispatcherTimerWindow();
             window.Show();
         }
+
+        private void btnBodyAnimationWindow_Click(object sender, RoutedEventArgs e)
+        {
+            BodyAnimationWindow window = new BodyAnimationWindow();
+            window.Show();
+        }
     }
 }

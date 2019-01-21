@@ -20,7 +20,7 @@ namespace 让物体动起来
     public partial class CompositionTargetWindow : Window
     {
         Rectangle rect;     // 创建一个方块
-        double speed = 1;   // 设置移动速度
+        double speed = 5;   // 设置移动速度
         Point moveTo;       // 设置移动目标
         public CompositionTargetWindow()
         {
