@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3Binding路径", "3.3Binding路径\3.3Binding路径.csproj", "{124E4ED3-3B9D-4988-85B3-66BECBFF795E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.7集合对象作为ItemsSource的源", "3.7集合对象作为ItemsSource的源\3.7集合对象作为ItemsSource的源.csproj", "{47A2FF26-61DE-4AB3-8473-953507C63110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{124E4ED3-3B9D-4988-85B3-66BECBFF795E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124E4ED3-3B9D-4988-85B3-66BECBFF795E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124E4ED3-3B9D-4988-85B3-66BECBFF795E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124E4ED3-3B9D-4988-85B3-66BECBFF795E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A2FF26-61DE-4AB3-8473-953507C63110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A2FF26-61DE-4AB3-8473-953507C63110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A2FF26-61DE-4AB3-8473-953507C63110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A2FF26-61DE-4AB3-8473-953507C63110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF49E69C-77C9-4973-BA66-FDE096DE84D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<Window x:Class="_3._3Binding路径.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3._3Binding路径"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="325">
+    <StackPanel>
+        <TextBox Name="textBox1" Margin="5" BorderBrush="Black"/>
+        <TextBox Name="textBox2" Margin="5" BorderBrush="Black" Text="{Binding Path=Text.Length,ElementName=textBox1,Mode=OneWay}"/>
+        <TextBox Name="textBox3" Margin="5" BorderBrush="Black" Text="{Binding Path=Text.[2],ElementName=textBox1,Mode=OneWay}"/>
+    </StackPanel>
+</Window>
