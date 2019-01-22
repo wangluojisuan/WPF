@@ -49,5 +49,11 @@ namespace 让物体动起来
             BodyAnimationWindow window = new BodyAnimationWindow();
             window.Show();
         }
+
+        private void btnAStartWindow_Click(object sender, RoutedEventArgs e)
+        {
+            AStartWindow window = new AStartWindow();
+            window.Show();
+        }
     }
 }

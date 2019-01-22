@@ -35,8 +35,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="QX">
+      <HintPath>..\QX.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -55,6 +59,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AStartWindow.xaml.cs">
+      <DependentUpon>AStartWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="BodyAnimationWindow.xaml.cs">
       <DependentUpon>BodyAnimationWindow.xaml</DependentUpon>
     </Compile>
@@ -64,6 +71,10 @@
     <Compile Include="StoryboardWindow.xaml.cs">
       <DependentUpon>StoryboardWindow.xaml</DependentUpon>
     </Compile>
+    <Page Include="AStartWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="BodyAnimationWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
