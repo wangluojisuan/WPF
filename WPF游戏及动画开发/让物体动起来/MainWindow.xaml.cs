@@ -55,5 +55,11 @@ namespace 让物体动起来
             BloodRectWindow window = new BloodRectWindow();
             window.Show();
         }
+
+        private void btnAStartWindow_Click(object sender, RoutedEventArgs e)
+        {
+            AStartWindow window = new AStartWindow();
+            window.Show();
+        }
     }
 }
