@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashTestInWpf", "SplashTestInWpf\SplashTestInWpf.csproj", "{2FF9BA94-E853-4B01-A58F-D137315E8EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenInWpf01", "SplashScreenInWpf01\SplashScreenInWpf01.csproj", "{A0A4C3CC-7615-4BB9-B88D-BD729F1C3988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenWpf02", "SplashScreenWpf02\SplashScreenWpf02.csproj", "{51C92181-6B5A-488D-91A1-5816D36BC630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenInWpf03", "SplashScreenInWpf03\SplashScreenInWpf03.csproj", "{E20D2480-6975-4D55-BE0B-A568E9DC40AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenInWpf04", "SplashScreenInWpf04\SplashScreenInWpf04.csproj", "{199A0881-D9D2-4638-AC7F-36DB6BBCF58D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenInWpf05", "SplashScreenInWpf05\SplashScreenInWpf05.csproj", "{80E73145-06A9-4E27-B9D0-5CF1911ACC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashTestInForm", "SplashTestInForm\SplashTestInForm.csproj", "{97470165-F96A-4EF5-B711-7F7FD6DA4962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF9BA94-E853-4B01-A58F-D137315E8EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF9BA94-E853-4B01-A58F-D137315E8EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF9BA94-E853-4B01-A58F-D137315E8EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF9BA94-E853-4B01-A58F-D137315E8EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A4C3CC-7615-4BB9-B88D-BD729F1C3988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A4C3CC-7615-4BB9-B88D-BD729F1C3988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A4C3CC-7615-4BB9-B88D-BD729F1C3988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A4C3CC-7615-4BB9-B88D-BD729F1C3988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C92181-6B5A-488D-91A1-5816D36BC630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C92181-6B5A-488D-91A1-5816D36BC630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C92181-6B5A-488D-91A1-5816D36BC630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C92181-6B5A-488D-91A1-5816D36BC630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20D2480-6975-4D55-BE0B-A568E9DC40AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20D2480-6975-4D55-BE0B-A568E9DC40AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20D2480-6975-4D55-BE0B-A568E9DC40AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20D2480-6975-4D55-BE0B-A568E9DC40AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199A0881-D9D2-4638-AC7F-36DB6BBCF58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199A0881-D9D2-4638-AC7F-36DB6BBCF58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199A0881-D9D2-4638-AC7F-36DB6BBCF58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199A0881-D9D2-4638-AC7F-36DB6BBCF58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E73145-06A9-4E27-B9D0-5CF1911ACC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E73145-06A9-4E27-B9D0-5CF1911ACC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E73145-06A9-4E27-B9D0-5CF1911ACC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E73145-06A9-4E27-B9D0-5CF1911ACC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97470165-F96A-4EF5-B711-7F7FD6DA4962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97470165-F96A-4EF5-B711-7F7FD6DA4962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97470165-F96A-4EF5-B711-7F7FD6DA4962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97470165-F96A-4EF5-B711-7F7FD6DA4962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
